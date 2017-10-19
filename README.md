@@ -9,3 +9,5 @@ This is a very helpful part of the file
 
 Sample website with plenty of files for demos
 ## How to Contribute
+
+Copyright Matthew Lamons
