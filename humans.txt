@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matthew Lamons mlamons@skejul.com @mlamons1
 
 # THANKS
 
